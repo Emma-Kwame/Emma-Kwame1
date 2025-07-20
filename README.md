@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Emmanuel 👋<br><br>🚀 Aspiring software engineer from Ghana  <br>🌍 I build tech to solve real problems, like flooding & transport  <br>🧠 Learning AI, Git, and Python  <br>💼 Open to collaboration!<br><br>📫 Reach me: emmanueldonkor6789@gmail.com<br>
+# Hi, I'm Emmanuel 👋<br><br>🚀 Aspiring software engineer from Ghana  <br>🌍 I build tech to solve real problems, like flooding & transport  <br>🧠 Learning AI, Git, Java, C++ and Python  <br>💼 Open to collaboration!<br><br>📫 Reach me: emmanueldonkor6789@gmail.com<br>
 
 
 ## 🌐 Socials:
